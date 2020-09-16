@@ -1,12 +1,11 @@
-public class Helloworld{
- 
-  public static void main(String args[]){
- 
-    /*
-    Use System.out.println() to print on console.
-    */
-    System.out.println("Hello World !!!");
-  
-  }
- 
+public class HelloWorld {
+
+	public static void main(String[] args)
+	{
+		int i;
+		for(i = 0; i <= 5; i++)
+		{
+			System.out.println("\n Hello World ");
+		}	
+	}
 }
